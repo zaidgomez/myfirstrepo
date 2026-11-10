@@ -84,3 +84,4 @@ if __name__ == "__main__":
 	window = tk.Tk()
 	Calculator(window)
 	window.mainloop()
+print("Calculator closed.")
